@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Example": {
+      "commandName": "Project"
+    },
+    "Run": {
+      "commandName": "Executable",
+      "executablePath": "C:\\_c\\ex\\run\\Example.exe",
+      "workingDirectory": "C:\\_c\\ex\\run\\"
+    }
+  }
+}
